@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ola Dare
+# 👋 Hi, I'm Dare Ololade
 
 🎓 **Software Engineering Student** at the Federal University of Technology, Akure (FUTA)  
 💻 **Full-Stack MERN Developer | Software Engineer**  
