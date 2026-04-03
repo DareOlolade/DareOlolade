@@ -51,12 +51,6 @@ Beyond web development, I have a strong foundation in **Python**, **data analysi
 - Responsive frontend designs
 - MongoDB database modeling
 
-### 🔹 Personal Finance Tracker
-A backend-focused project emphasizing data structure, validation, and logic.
-
-### 🔹 AI Chatbot (In Progress)
-Integrating intelligent features into web applications to enhance user experience.
-
 ---
 
 ## 🎯 Career Goals
