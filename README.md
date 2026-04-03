@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Dare Ololade
+#  Hi, I'm Dare Ololade
 
-🎓 **Software Engineering Student** at the Federal University of Technology, Akure (FUTA)  
-💻 **Full-Stack MERN Developer | Software Engineer**  
-🌍 Based in Nigeria
+ **Software Engineering Student** at the Federal University of Technology, Akure (FUTA)  
+ **Full-Stack MERN Developer | Software Engineer**  
+ Based in Nigeria
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full-Stack MERN Developer** focused on building **scalable, responsive, and user-friendly web applications**.
 
@@ -16,35 +16,35 @@ Beyond web development, I have a strong foundation in **Python**, **data analysi
 
 ---
 
-## 🧠 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- ⚛️ Building full-stack applications with **MongoDB, Express, React, and Node.js**
-- 🎨 Creating responsive UIs using **Tailwind CSS & DaisyUI**
-- 🔐 Designing RESTful APIs and backend logic with **Node.js & Express**
-- 🗄️ Working with **MongoDB (Atlas)** for data persistence
-- 🐍 Improving Python skills and exploring ML concepts
+-  Building full-stack applications with **MongoDB, Express, React, and Node.js**
+-  Creating responsive UIs using **Tailwind CSS & DaisyUI**
+-  Designing RESTful APIs and backend logic with **Node.js & Express**
+-  Working with **MongoDB (Atlas)** for data persistence
+-  Improving Python skills and exploring ML concepts
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | **Frontend & Backend** | **Data, Tools & Others** |
 |------------------------|--------------------------|
-| ⚛️ React              | 🐍 Python               |
-| 🟨 JavaScript    | 📊 Pandas               |
-| 🌐 HTML5              | 🔢 NumPy                |
-| 🎨 CSS3               | 📓 Jupyter Notebook     |
-| 💨 Tailwind CSS       | 🧪 Postman              |
-| 🌼 DaisyUI            | 🗄️ MongoDB & Mongoose   |
-| 🟢 Node.js            | 🔧 Git & GitHub         |
-| 🚂 Express.js         | 🖥️ VS Code              |
-| 🔌 REST APIs          |                          |
+|  React              |  Python               |
+|  JavaScript    |  Pandas               |
+|  HTML5              |  NumPy                |
+|  CSS3               |  Jupyter Notebook     |
+|  Tailwind CSS       |  Postman              |
+|  DaisyUI            |  MongoDB & Mongoose   |
+|  Node.js            |  Git & GitHub         |
+|  Express.js         |  VS Code              |
+|  REST APIs          |                          |
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🔹 Full-Stack MERN Applications
+###  Full-Stack MERN Applications
 - User authentication & authorization
 - CRUD applications
 - RESTful API development
@@ -53,7 +53,7 @@ Beyond web development, I have a strong foundation in **Python**, **data analysi
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Become a highly skilled **Full-Stack MERN Engineer**
 - Build production-ready web applications
@@ -64,5 +64,5 @@ Beyond web development, I have a strong foundation in **Python**, **data analysi
 ---
 
 
-⭐ *Eat, Sleep, Code, Repeat.*
+ *Eat, Sleep, Code, Repeat.*
 
