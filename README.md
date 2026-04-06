@@ -66,3 +66,10 @@ Beyond web development, I have a strong foundation in **Python**, **data analysi
 
  *Eat, Sleep, Code, Repeat.*
 
+ ---
+
+## ⌨️ Typing Stats (Monkeytype)
+
+[![My Monkeytype Stats](https://githubusercontent.com)](https://monkeytype.com)
+
+
