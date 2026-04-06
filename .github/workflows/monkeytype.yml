@@ -1,8 +1,8 @@
 name: Update Monkeytype Stats
 on:
   schedule:
-    - cron: "0 */6 * * *" # Updates every 6 hours
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   update-stats:
@@ -12,5 +12,8 @@ jobs:
       - name: Generate Monkeytype SVG
         uses: ridemountainpig/monkeytype-readme@master
         with:
-          monkeytype_username: DareOlolade
+          # Use 'username' instead of 'monkeytype_username'
+          username: DareOlolade 
+          # Use 'api_key' and explicitly provide the 'github-token'
           api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
+          github-token: ${{ secrets.GITHUB_TOKEN }} 
