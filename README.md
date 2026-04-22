@@ -1,67 +1,29 @@
-#  Hi, I'm Dare Ololade
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Dare+Ololade;Building+Fast+Web+Experiences;Realtime+Apps+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Backends&cursor=|" alt="Typing SVG" />
+</p>
 
- **Software Engineering Student** at the Federal University of Technology, Akure (FUTA)  
- **Full-Stack MERN Developer | Software Engineer**  
- Based in Nigeria
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
----
-
-##  About Me
-
-I'm a passionate **Full-Stack MERN Developer** focused on building **scalable, responsive, and user-friendly web applications**.
-
-I enjoy working across the entire stack — from crafting clean frontend interfaces to designing efficient backend APIs and managing databases. I care deeply about **code quality, performance, and real-world usability**.
-
-Beyond web development, I have a strong foundation in **Python**, **data analysis**, and **machine learning**, which helps me think analytically and build smarter systems.
-
----
-
-##  What I'm Currently Working On
-
--  Building full-stack applications with **MongoDB, Express, React, and Node.js**
--  Creating responsive UIs using **Tailwind CSS & DaisyUI**
--  Designing RESTful APIs and backend logic with **Node.js & Express**
--  Working with **MongoDB (Atlas)** for data persistence
--  Improving Python skills and exploring ML concepts
+> Full-Stack Developer building scalable, user-friendly web apps. Passionate about clean code and real-world usability.
 
 ---
 
-##  Tech Stack
-
-| **Frontend & Backend** | **Data, Tools & Others** |
-|------------------------|--------------------------|
-|  React              |  Python               |
-|  JavaScript    |  Pandas               |
-|  HTML5              |  NumPy                |
-|  CSS3               |  Jupyter Notebook     |
-|  Tailwind CSS       |  Postman              |
-|  DaisyUI            |  MongoDB & Mongoose   |
-|  Node.js            |  Git & GitHub         |
-|  Express.js         |  VS Code              |
-|  REST APIs          |                          |
+## Current Projects
+-  [ClickOff](https://clickoff-live.vercel.app) — Real-time multiplayer typing game with rooms, Socket.io, and leaderboard
+-  [Notely](https://notely-flow.vercel.app) — Full-stack notes app with auth, CRUD, and MongoDB backend
 
 ---
 
-##  Featured Projects
-
-###  Full-Stack MERN Applications
-- User authentication & authorization
-- CRUD applications
-- RESTful API development
-- Responsive frontend designs
-- MongoDB database modeling
+## Goals
+Build production-ready products · Master system design · Integrate AI into web apps · Contribute to open source
 
 ---
-
-##  Career Goals
-
-- Become a highly skilled **Full-Stack MERN Engineer**
-- Build production-ready web applications
-- Master system design and backend architecture
-- Contribute to open-source projects
-- Integrate AI features into web platforms
-
----
-
-
- *Eat, Sleep, Code, Repeat.*
+*Eat. Sleep. Code. Repeat.*
