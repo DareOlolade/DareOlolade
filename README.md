@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Dare+Ololade;Building+Fast+Web+Experiences;Realtime+Apps+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Backends&cursor=|" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Dare+Ololade;Eat.+Sleep.+Code.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,6 +24,3 @@
 
 ## Goals
 Build production-ready products · Master system design · Integrate AI into web apps · Contribute to open source
-
----
-*Eat. Sleep. Code. Repeat.*
