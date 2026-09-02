@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Systems / Low Level -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/x86__64_Assembly-3776AB?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86__64_Assembly-2E2E2E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/POSIX-333333?style=for-the-badge&logo=gnubash&logoColor=white" />
   <!-- Backend / Distributed -->
@@ -16,7 +16,7 @@
 
 ---
 
-I build software across the entire computing stack. My focus ranges from **low-level systems** (writing OS components, kernel exploration, and raw x86_64 Assembly) to **high-throughput backend engineering** (concurrent services in Go and robust architectures in TypeScript). 
+I build software across the entire computing stack. My focus ranges from **low-level systems** (writing OS components, kernel exploration, and raw x86_64 Assembly) to **high-throughput backend engineering** (concurrent services in Go and robust architectures in TypeScript).
 
 Knowing how the CPU, memory subsystem, and OS kernel function under the hood allows me to design faster, more resource-efficient backend applications.
 
@@ -27,38 +27,51 @@ Knowing how the CPU, memory subsystem, and OS kernel function under the hood all
 
 ###  Featured Projects
 
-####  Low-Level & Systems Software
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Mivi](https://github.com/DareOlolade/Mivi)** | `x86_64 Assembly` `Syscalls` | Minimalist Vim-like text editor written **entirely in assembly** without `libc`. Direct interaction with Linux kernel via raw syscalls (`sys_read`, `sys_write`, `sys_ioctl`). |
+#### Low-Level & Systems Software
 
+- **[Mivi](https://github.com/DareOlolade/Mivi)** *(in progress)* — `x86_64 Assembly` `Syscalls`
+  Minimalist Vim-like text editor written **entirely in assembly** without `libc`. Direct interaction with the Linux kernel via raw syscalls (`sys_read`, `sys_write`, `sys_ioctl`).
 
-####  High-Performance Backend & Networking
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Catalogia](https://catalogia-web.vercel.app/)** | `Javascript` `Electron` `React` | A minimalist book cataloging app. |
-| **[ClickOff](https://clickoff-live.vercel.app)** | `Javascript` `Node.js` `React` `Socket.io` | Real-time multiplayer typing engine featuring bidirectional event-driven communication and synchronized room states. |
+#### Web & Real-Time Applications
+
+- **[Catalogia](https://catalogia-web.vercel.app/)** — `JavaScript` `Electron` `React`
+  A minimalist, cross-platform book cataloging desktop app.
+
+- **[ClickOff](https://clickoff-live.vercel.app)** — `JavaScript` `Node.js` `React` `Socket.io`
+  Real-time multiplayer typing engine featuring bidirectional event-driven communication and synchronized room states.
 
 ---
 
 ###  Foundational Reading
-I love reading and my understanding of software architecture is deeply shaped by foundational computer science literature:
 
--  **Code: The Hidden Language of Computer Hardware and Software** — *Charles Petzold*
--  **The Linux Programming Interface (TLPI)** — *Michael Kerrisk*
--  **C Programming: A Modern Approach** — *K. N. King*
--  **Low-Level Programming: C, Assembly, and Execution on Intel® 64** — *Igor Zhirkov*
--  **Learn to Program with Assembly** — *Jonathan Bartlett*
--  **Operating Systems: From 0 to 1** *(Currently In-Progress)*
+I love reading, and my understanding of software architecture is deeply shaped by foundational computer science literature:
+
+- **Code: The Hidden Language of Computer Hardware and Software** — *Charles Petzold*
+- **The Linux Programming Interface (TLPI)** — *Michael Kerrisk*
+- **C Programming: A Modern Approach** — *K. N. King*
+- **Low-Level Programming: C, Assembly, and Execution on Intel® 64** — *Igor Zhirkov*
+- **Learn to Program with Assembly** — *Jonathan Bartlett*
+- **Operating Systems: From 0 to 1** *(currently in progress)*
 
 ---
 
-### Plans
-- [x] Build a dependency-free text editor in pure x86_64 Assembly
+###  Plans
+
+- [ ] Finish a dependency-free text editor in pure x86_64 Assembly
 - [x] Master concurrent backend programming in Go & TypeScript
 - [ ] Boot custom x86 kernel into Protected/Long Mode on bare metal
 - [ ] Write custom Linux Kernel Modules (LKM) and character device drivers
 - [ ] Acquire an FPGA board and implement a basic RISC-V processor in Verilog
+
+---
+
+###  Reach Me
+
+<p align="center">
+  <a href="mailto:oladare186@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://x.com/ololadeIdunu"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 ---
 
