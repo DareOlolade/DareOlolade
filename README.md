@@ -29,7 +29,7 @@ Knowing how the CPU, memory subsystem, and OS kernel function under the hood all
 
 #### Low-Level & Systems Software
 
-- **[Mivi](https://github.com/DareOlolade/Mivi)** *(in progress)* — `x86_64 Assembly` `Syscalls`
+- **[Mivi](https://github.com/DareOlolade/Mivi)** — `x86_64 Assembly` `Syscalls`
   Minimalist Vim-like text editor written **entirely in assembly** without `libc`. Direct interaction with the Linux kernel via raw syscalls (`sys_read`, `sys_write`, `sys_ioctl`).
 
 #### Web & Real-Time Applications
@@ -57,7 +57,7 @@ I love reading, and my understanding of software architecture is deeply shaped b
 
 ###  Plans
 
-- [ ] Finish a dependency-free text editor in pure x86_64 Assembly
+- [x] Finish a dependency-free text editor in pure x86_64 Assembly
 - [x] Master concurrent backend programming in Go & TypeScript
 - [ ] Boot custom x86 kernel into Protected/Long Mode on bare metal
 - [ ] Write custom Linux Kernel Modules (LKM) and character device drivers
