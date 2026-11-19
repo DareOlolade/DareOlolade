@@ -25,46 +25,6 @@ Knowing how the CPU, memory subsystem, and OS kernel function under the hood all
 
 ---
 
-###  Featured Projects
-
-#### Low-Level & Systems Software
-
-- **[Mivi](https://github.com/DareOlolade/Mivi)** — `x86_64 Assembly` `Syscalls`
-  Minimalist Vim-like text editor written **entirely in assembly** without `libc`. Direct interaction with the Linux kernel via raw syscalls (`sys_read`, `sys_write`, `sys_ioctl`).
-
-#### Web & Real-Time Applications
-
-- **[Catalogia](https://catalogia-web.vercel.app/)** — `JavaScript` `Electron` `React`
-  A minimalist, cross-platform book cataloging desktop app.
-
-- **[ClickOff](https://clickoff-live.vercel.app)** — `JavaScript` `Node.js` `React` `Socket.io`
-  Real-time multiplayer typing engine featuring bidirectional event-driven communication and synchronized room states.
-
----
-
-###  Foundational Reading
-
-I love reading, and my understanding of software architecture is deeply shaped by foundational computer science literature:
-
-- **Code: The Hidden Language of Computer Hardware and Software** — *Charles Petzold*
-- **The Linux Programming Interface (TLPI)** — *Michael Kerrisk*
-- **C Programming: A Modern Approach** — *K. N. King*
-- **Low-Level Programming: C, Assembly, and Execution on Intel® 64** — *Igor Zhirkov*
-- **Learn to Program with Assembly** — *Jonathan Bartlett*
-- **Operating Systems: From 0 to 1** *(currently in progress)*
-
----
-
-###  Plans
-
-- [x] Finish a dependency-free text editor in pure x86_64 Assembly
-- [x] Master concurrent backend programming in Go & TypeScript
-- [ ] Boot custom x86 kernel into Protected/Long Mode on bare metal
-- [ ] Write custom Linux Kernel Modules (LKM) and character device drivers
-- [ ] Acquire an FPGA board and implement a basic RISC-V processor in Verilog
-
----
-
 ###  Reach Me
 
 <p align="center">
@@ -73,8 +33,8 @@ I love reading, and my understanding of software architecture is deeply shaped b
  <a href="https://x.com/ololadeIdunu"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
----
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DareOlolade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=DareOlolade&hide_border=true&background=000000&ring=7aa2f7&fire=ff9e64&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7aa2f7&sideLabels=ffffff&dates=888888" alt="Streak" />
 </p>
